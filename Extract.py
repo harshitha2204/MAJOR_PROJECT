@@ -30,10 +30,10 @@ def extract_files(zip_file, out_dir, delete_zip=False):
 
 if __name__ == '__main__':
    
-    dir_name = 'C:\\Users\\Harini\\Downloads\\depression-detect-master\\src\\DAIC-WOZ'
+    dir_name = '/Home/Documents/depression-detection/DAIC-WOZ'
 
     
-    out_dir = 'C:\\Users\\Harini\\Downloads\\depression-detect-master\\src\\raw'
+    out_dir = '/Home/Documents/depression-detection/src/raw'
 
     
     delete_zip = False
