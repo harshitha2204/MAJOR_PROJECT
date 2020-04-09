@@ -73,7 +73,7 @@ def create_png(im_matrix, png_name):
 
 if __name__ == '__main__':
     # directory containing participant folders with segmented wav files
-    dir_name = '../../data/interim'
+    dir_name = '/Home/Documents/depression-detection/src/interim'
 
     for subdir, dirs, files in os.walk(dir_name):
         for file in files:
