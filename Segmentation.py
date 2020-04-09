@@ -62,12 +62,12 @@ def concatenate_segments(participant_dir, partic_id, remove_segment=True):
 
 if __name__ == '__main__':
     # directory containing raw wav files
-    dir_name = r"C:\Users\Harini\Documents\PROJECT\src\raw\audio"
+    dir_name = r"/Home/Documents/depression-detection/src/raw/audio"
 
 
     # directory where a participant folder will be created containing their
     # segmented wav file
-    out_dir = r"C:\Users\Harini\Documents\PROJECT\src\interim"
+    out_dir = r"/Home/Documents/depression-detection/src/interim"
     
 
 
